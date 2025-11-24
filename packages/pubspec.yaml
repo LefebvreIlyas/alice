@@ -1,0 +1,17 @@
+name: workspace
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+
+  flutter: '>=3.38.0'
+
+workspace:
+  - alice
+  - alice_chopper
+  - alice_dio
+  - alice_http
+  - alice_http_client
+  - alice_objectbox
+  - alice_test
