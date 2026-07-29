@@ -10,10 +10,10 @@ environment:
 
 dependencies:
   alice: ^1.0.0
-  test: ^1.25.15
-  mocktail: ^1.0.4
+  test: ^1.31.2
+  mocktail: ^1.0.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
